@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### Main Interest
-- Intereaction AI
+- Intereactive AI
 - Multimodal (CV / NLP/ Audio)
 
 ### Interested in
