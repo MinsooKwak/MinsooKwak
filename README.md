@@ -29,11 +29,15 @@ Here are some ideas to get you started:
 - GAN
 - RL
 - DIFFUSION
+- Foundation Model
+- AGI
 - Recommendation system
 
 ### Now studying
 - Multimodal
-- CV
+- RL
 - NLP
-- Flutter
+- Langchain / Streamlit
+- CV
 - Audio
+- Flutter
